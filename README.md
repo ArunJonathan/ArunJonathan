@@ -10,11 +10,9 @@
 ---
 
 ## 🧠 About Me
-
-- 🌱 I’m currently learning *HTML, **CSS, **JavaScript, **React, and backend technologies like **Node.js* and databases.  
-- 💡 I enjoy solving real-world problems through code, optimizing performance, and collaborating with teams to create useful and effective results.  
-- 🚀 I’m looking forward to learning new things, improving my skills, and helping build great projects.
-
+	-	🌱 I’ve learned HTML, CSS, JavaScript, React, and backend technologies like Node.js and databases.
+	-	💡 I enjoyed solving real-world problems through code, optimizing performance, and collaborating with teams to create useful and effective results.
+	-	🚀 I’m always looking for opportunities to apply my skills, build impactful projects, and continue growing as a developer.
 ---
 
 ## 📊 GitHub Stats
