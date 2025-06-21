@@ -32,7 +32,7 @@
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/arunjonathan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:arunjonatha33@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40" /></a>
+<a href="mailto:arunjonatha33@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" height="40" width="40" /></a>
 </p>
 
 ---
